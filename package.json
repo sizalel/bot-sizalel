@@ -1,0 +1,12 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot sizalel",
+  "main": "main.js",
+  "repository": "https://github.com/sizalel/bot-sizalel.git",
+  "author": "sizalel <teolis.rainyday@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
